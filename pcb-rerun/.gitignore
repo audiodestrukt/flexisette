@@ -1,0 +1,10 @@
+node_modules
+build/
+dist/
+route-evals/
+.tscircuit/
+*.kicad_prl
+fp-info-cache
+*.lck
+scripts/__pycache__/
+scripts/srj/node_modules
